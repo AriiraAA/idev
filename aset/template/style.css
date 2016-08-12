@@ -1,0 +1,27 @@
+body{
+	font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+table{
+	font-size: 15px;
+}
+
+#top{
+	font-size: 45px;
+	font-style: bold;
+}
+
+.form-group{
+	width: 50%;
+}
+
+footer {
+    color: #fff;
+}
+
+footer .footer-below {
+    margin-top: 10px;
+    padding: 10px 10px;
+    background-color: black;
+    font-size: 15px;
+}
